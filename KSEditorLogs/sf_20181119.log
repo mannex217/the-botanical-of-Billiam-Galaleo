@@ -1,0 +1,13 @@
+2018-11-19 11:22:48.4373 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-19 11:22:48.4508 [INFO] Setting define symbol SCENE_FUSION
+2018-11-19 11:22:56.5272 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-19 11:23:46.7363 [INFO] Launching Session: SampleScene
+2018-11-19 11:23:47.2887 [DEBUG] Connecting
+2018-11-19 11:23:47.3200 [DEBUG] Connecting to room (85523:SceneFusion:SceneFusion) via TCP at matchmaker-console.kinematicsoup.com:1083
+2018-11-19 11:25:34.2926 [DEBUG] Sent C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/KSEditorLogs/SessionLogs/session.85523-636782234273266560.log
+2018-11-19 11:44:32.9171 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-19 11:44:41.3852 [DEBUG] Invalid token sent as part of a web request token. Token = EuZU5oIqJ7l7o3Yo0KwUSqTkQ00mpth9gugmMMLMi8eF5KDBKrFtri4MJ7oFjC1GuDC9ybo9AMASXchCzozwqCT6XeKMhM10MKEh9pcqNuw7TlHR3YSzC7FjhY6xyjzcwQJ12CArFdZ2IdZxeB68diLhWLnlRZBiQsB6BcsJnDlSYmuzonq9hySMguZcalxd6lsa7oGZHfkWU50hsXD9HHyh5ZDQbwlX9ZGiyh9XAeXh5pKR4J8zUZfa3YCaToz
+2018-11-19 11:44:49.6136 [INFO] Launching Session: SampleScene
+2018-11-19 11:44:50.1470 [DEBUG] Connecting
+2018-11-19 11:44:50.1731 [DEBUG] Connecting to room (85524:SceneFusion:SceneFusion) via TCP at matchmaker-console.kinematicsoup.com:1036
+2018-11-19 11:55:15.4720 [DEBUG] Sent C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/KSEditorLogs/SessionLogs/session.85524-636782246902060026.log

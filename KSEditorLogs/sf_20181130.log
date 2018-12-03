@@ -1,0 +1,10 @@
+2018-11-30 12:11:13.5562 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-30 12:11:17.9228 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-30 12:15:47.4194 [DEBUG] Invalid token sent as part of a web request token. Token = ybtIkLIHLhm6sYpjitOaWiscEWQTQ8Swajcg07y4upCrnljbIuKeakdP5ME7t3yIyJ3QoqpqHOB6BbBHC84leqa4fketL4n7ZiR895Xtgr5wrikgKxl7bhPzgUgQMJXoHaKOZgOniwa3lxmPb8CLd6Ojc1WyeAbOSxZUcAdEMFACZZZRDkPijyNFdBB5Jic5Aq6PCjiIagisLhfd7M451QjYEoWliZoNQ1erkinJQaPOJlw8yonrBi4WRhwNuFa
+2018-11-30 12:16:07.2032 [INFO] Launching Session: Untitled
+2018-11-30 12:16:07.7719 [DEBUG] Connecting
+2018-11-30 12:16:07.7996 [DEBUG] Connecting to room (86130:SceneFusion:SceneFusion) via TCP at roommanager-ec2-34-208-239-176.kinematicsoup.com:1094
+2018-11-30 12:59:03.0048 [DEBUG] Sent C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/KSEditorLogs/SessionLogs/session.86130-636791769678492993.log
+2018-11-30 12:59:31.6610 [INFO] Launching Session: Untitled
+2018-11-30 12:59:32.2165 [DEBUG] Connecting
+2018-11-30 12:59:32.2245 [DEBUG] Connecting to room (86133:SceneFusion:SceneFusion) via TCP at roommanager-ec2-34-208-239-176.kinematicsoup.com:1066

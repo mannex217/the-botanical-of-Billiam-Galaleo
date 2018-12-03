@@ -1,0 +1,57 @@
+2018-11-30 12:16:07.9025 [DEBUG] Validating model...
+2018-11-30 12:16:07.9429 [DEBUG] Model updated
+2018-11-30 12:16:07.9429 [DEBUG] Authenticating with server...
+2018-11-30 12:16:08.3913 [DEBUG] Connected to room. (86130:SceneFusion:SceneFusion)
+2018-11-30 12:16:08.3913 [INFO] Connected to server.
+2018-11-30 12:16:08.3913 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2018-11-30 12:16:08.3913 [DEBUG] Unity Version : 2018.2.16f1
+2018-11-30 12:16:08.3913 [DEBUG] Pro License : False
+2018-11-30 12:16:08.3913 [DEBUG] Platform : WindowsEditor
+2018-11-30 12:16:08.3913 [DEBUG] Build Target : StandaloneWindows64
+2018-11-30 12:16:08.3913 [DEBUG] Scene Fusion version : 1.8.1
+2018-11-30 12:16:08.3913 [DEBUG] Scene Fusion client build : 4
+2018-11-30 12:16:08.3913 [DEBUG] User : matthew.hollins@meritknights.com
+2018-11-30 12:16:08.3913 [DEBUG] Waiting for server response
+2018-11-30 12:16:08.5028 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-11-30 12:16:08.5028 [DEBUG] User Permissions: FFFFFFFF
+2018-11-30 12:16:08.7995 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2018-11-30 12:16:08.7995 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2018-11-30 12:16:09.8093 [DEBUG] Uploading scene 'Untitled'
+2018-11-30 12:16:09.8692 [DEBUG] Spawn request. (Objects: 1)
+2018-11-30 12:16:10.0291 [DEBUG] Loading complete
+2018-11-30 12:20:17.7267 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-11-30 12:20:17.7267 [DEBUG] Disconnecting from room (86130:SceneFusion:SceneFusion)
+2018-11-30 12:20:17.7368 [INFO] Disconnected from server.
+2018-11-30 12:20:17.7368 [DEBUG] Disconnect. (Duration: 249)
+2018-11-30 12:20:17.9587 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-11-30 12:20:20.8059 [DEBUG] Scene Fusion version 1.8.1-4
+2018-11-30 12:20:20.8790 [DEBUG] Play mode: True, sync in play mode: False
+2018-11-30 12:20:20.9709 [DEBUG] Connecting to room (86130:SceneFusion:SceneFusion) via TCP at roommanager-ec2-34-208-239-176.kinematicsoup.com:1094
+2018-11-30 12:20:20.9848 [DEBUG] Host connection. (Session: 86130)
+2018-11-30 12:20:22.0503 [DEBUG] Validating model...
+2018-11-30 12:20:22.0835 [DEBUG] Model updated
+2018-11-30 12:20:22.0845 [DEBUG] Authenticating with server...
+2018-11-30 12:20:22.1649 [DEBUG] Connected to room. (86130:SceneFusion:SceneFusion)
+2018-11-30 12:20:22.1869 [INFO] Connected to server.
+2018-11-30 12:20:22.1869 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2018-11-30 12:20:22.1869 [DEBUG] Unity Version : 2018.2.16f1
+2018-11-30 12:20:22.1869 [DEBUG] Pro License : False
+2018-11-30 12:20:22.1869 [DEBUG] Platform : WindowsEditor
+2018-11-30 12:20:22.1869 [DEBUG] Build Target : StandaloneWindows64
+2018-11-30 12:20:22.1869 [DEBUG] Scene Fusion version : 1.8.1
+2018-11-30 12:20:22.1869 [DEBUG] Scene Fusion client build : 4
+2018-11-30 12:20:22.1879 [DEBUG] User : matthew.hollins@meritknights.com
+2018-11-30 12:20:22.2408 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-11-30 12:20:22.2408 [DEBUG] User Permissions: FFFFFFFF
+2018-11-30 12:20:22.2787 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2018-11-30 12:20:22.2787 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2018-11-30 12:20:28.4298 [DEBUG] Play mode: False
+2018-11-30 12:20:28.4765 [DEBUG] Loading complete
+2018-11-30 12:30:34.5711 [DEBUG] Spawn request. (Objects: 2)
+2018-11-30 12:40:26.1565 [DEBUG] batch size: 151664
+2018-11-30 12:46:25.1034 [WARNING] Unable to load Tile 'Assets/Ground textures pack/Dry ground/New Tile.asset'.
+2018-11-30 12:46:25.1064 [WARNING] Unable to load Sprite 'Assets/Ground textures pack/Dry ground/diffuse.tga' at index 1.
+2018-11-30 12:54:10.9728 [WARNING] Unable to load Tile 'Assets/dirt stones.asset'.
+2018-11-30 12:59:02.9828 [DEBUG] Disconnecting from room (86130:SceneFusion:SceneFusion)
+2018-11-30 12:59:02.9858 [INFO] Disconnected from server.
+2018-11-30 12:59:02.9868 [DEBUG] Disconnect. (Duration: -296)

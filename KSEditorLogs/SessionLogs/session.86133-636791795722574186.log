@@ -1,0 +1,29 @@
+2018-11-30 12:59:32.3312 [DEBUG] Validating model...
+2018-11-30 12:59:32.3691 [DEBUG] Model updated
+2018-11-30 12:59:32.3691 [DEBUG] Authenticating with server...
+2018-11-30 12:59:32.8117 [DEBUG] Connected to room. (86133:SceneFusion:SceneFusion)
+2018-11-30 12:59:32.8137 [INFO] Connected to server.
+2018-11-30 12:59:32.8137 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2018-11-30 12:59:32.8137 [DEBUG] Unity Version : 2018.2.16f1
+2018-11-30 12:59:32.8137 [DEBUG] Pro License : False
+2018-11-30 12:59:32.8137 [DEBUG] Platform : WindowsEditor
+2018-11-30 12:59:32.8157 [DEBUG] Build Target : StandaloneWindows64
+2018-11-30 12:59:32.8157 [DEBUG] Scene Fusion version : 1.8.1
+2018-11-30 12:59:32.8157 [DEBUG] Scene Fusion client build : 4
+2018-11-30 12:59:32.8157 [DEBUG] User : matthew.hollins@meritknights.com
+2018-11-30 12:59:32.8157 [DEBUG] Waiting for server response
+2018-11-30 12:59:32.8556 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-11-30 12:59:32.8556 [DEBUG] User Permissions: FFFFFFFF
+2018-11-30 12:59:32.8576 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2018-11-30 12:59:32.8576 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2018-11-30 12:59:32.9638 [DEBUG] Uploading scene 'Untitled'
+2018-11-30 12:59:32.9678 [DEBUG] Spawn request. (Objects: 2)
+2018-11-30 12:59:33.0701 [DEBUG] Loading complete
+2018-11-30 13:17:49.5093 [DEBUG] Spawn request. (Objects: 2)
+2018-11-30 13:28:38.9088 [DEBUG] Spawn request. (Objects: 1)
+2018-11-30 13:33:58.4981 [DEBUG] Spawn request. (Objects: 1)
+2018-11-30 13:34:40.8835 [DEBUG] Spawn request. (Objects: 1)
+2018-11-30 13:39:55.9008 [DEBUG] Disconnecting temporarily to recompile.
+2018-11-30 13:39:55.9008 [DEBUG] Disconnecting from room (86133:SceneFusion:SceneFusion)
+2018-11-30 13:39:55.9174 [INFO] Disconnected from server.
+2018-11-30 13:39:55.9174 [DEBUG] Disconnect. (Duration: 2417)
