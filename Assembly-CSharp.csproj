@@ -55,6 +55,8 @@
   <ItemGroup>
      <Compile Include="Assets\KinematicSoup\SceneFusion\Extensions\Ferr2D\sfFerr2DAdaptor.cs" />
      <Compile Include="Assets\KinematicSoup\SceneFusion\FusionRoot.cs" />
+     <Compile Include="Assets\Warped Caves\KillPlayer.cs" />
+     <Compile Include="Assets\Warped Caves\PlayerController.cs" />
      <None Include="Assets\KinematicSoup\SceneFusion\Stand-Ins\TextAsset.txt" />
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\BillboardCutout.shader" />
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\Missing.shader" />

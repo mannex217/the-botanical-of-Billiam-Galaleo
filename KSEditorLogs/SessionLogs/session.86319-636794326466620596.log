@@ -1,0 +1,25 @@
+2018-12-03 11:17:26.7227 [DEBUG] Validating model...
+2018-12-03 11:17:26.7513 [DEBUG] Model updated
+2018-12-03 11:17:26.7513 [DEBUG] Authenticating with server...
+2018-12-03 11:17:26.8190 [DEBUG] Connected to room. (86319:SceneFusion:SceneFusion)
+2018-12-03 11:17:26.8288 [INFO] Connected to server.
+2018-12-03 11:17:26.8288 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2018-12-03 11:17:26.8288 [DEBUG] Unity Version : 2018.2.16f1
+2018-12-03 11:17:26.8288 [DEBUG] Pro License : False
+2018-12-03 11:17:26.8288 [DEBUG] Platform : WindowsEditor
+2018-12-03 11:17:26.8288 [DEBUG] Build Target : StandaloneWindows64
+2018-12-03 11:17:26.8288 [DEBUG] Scene Fusion version : 1.8.1
+2018-12-03 11:17:26.8288 [DEBUG] Scene Fusion client build : 4
+2018-12-03 11:17:26.8288 [DEBUG] User : matthew.hollins@meritknights.com
+2018-12-03 11:17:26.8288 [DEBUG] Waiting for server response
+2018-12-03 11:17:26.9086 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-12-03 11:17:26.9086 [DEBUG] User Permissions: FFFFFFFF
+2018-12-03 11:17:26.9191 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2018-12-03 11:17:26.9191 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2018-12-03 11:17:27.7186 [DEBUG] Loading complete
+2018-12-03 11:20:33.2606 [DEBUG] Disconnecting temporarily to recompile.
+2018-12-03 11:20:33.2606 [DEBUG] Disconnecting from room (86319:SceneFusion:SceneFusion)
+2018-12-03 11:20:33.2625 [INFO] Disconnected from server.
+2018-12-03 11:20:33.2625 [DEBUG] Disconnect. (Duration: 186)
+2018-12-03 11:20:39.3312 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-03 11:20:41.1313 [DEBUG] Property changes detected after recompile. Will not reconnect.
