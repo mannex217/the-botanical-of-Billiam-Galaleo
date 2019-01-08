@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B71F84-CF8D-BB4D-FB75-895734103514}</ProjectGuid>
+    <ProjectGuid>{6027B98A-5812-8DEA-B00D-B6A3EAC139B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,8 +55,10 @@
   <ItemGroup>
      <Compile Include="Assets\KinematicSoup\SceneFusion\Extensions\Ferr2D\sfFerr2DAdaptor.cs" />
      <Compile Include="Assets\KinematicSoup\SceneFusion\FusionRoot.cs" />
-     <Compile Include="Assets\Warped Caves\KillPlayer.cs" />
-     <Compile Include="Assets\Warped Caves\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\FollowXAxis.cs" />
+     <Compile Include="Assets\Scripts\KillPlayer.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\tempscroll.cs" />
      <None Include="Assets\KinematicSoup\SceneFusion\Stand-Ins\TextAsset.txt" />
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\BillboardCutout.shader" />
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\Missing.shader" />
@@ -67,16 +69,16 @@
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\Drag.shader" />
      <None Include="Assets\KinematicSoup\SceneFusion\Shaders\Cutout.shader" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -277,10 +279,10 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="KSCommon.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/KSCommon.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/KSCommon.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="KSSceneFusion.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/student/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

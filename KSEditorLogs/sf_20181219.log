@@ -1,0 +1,112 @@
+2018-12-19 12:10:56.6102 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:11:02.9132 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:11:03.1994 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:11:40.9975 [DEBUG] Play mode: False
+2018-12-19 12:11:50.0508 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:11:50.1076 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:11:51.7477 [DEBUG] Play mode: False
+2018-12-19 12:14:36.9203 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:14:36.9941 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:15:38.9968 [DEBUG] Play mode: False
+2018-12-19 12:19:23.8685 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:19:23.9284 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:20:02.6812 [DEBUG] Play mode: False
+2018-12-19 12:26:49.0788 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:26:49.1526 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:26:59.6347 [DEBUG] Play mode: False
+2018-12-19 12:27:49.5881 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:27:49.6500 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:28:00.5567 [DEBUG] Play mode: False
+2018-12-19 12:28:18.6297 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:28:18.6866 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:28:25.3566 [DEBUG] Play mode: False
+2018-12-19 12:28:43.0270 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:28:43.0878 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:28:51.0350 [DEBUG] Play mode: False
+2018-12-19 12:29:21.4786 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:29:21.5335 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:29:27.7768 [DEBUG] Play mode: False
+2018-12-19 12:29:48.6533 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:29:48.7171 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:29:57.3027 [DEBUG] Play mode: False
+2018-12-19 12:37:20.2203 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:37:20.3205 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:37:26.0241 [DEBUG] Play mode: False
+2018-12-19 12:37:59.7918 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:37:59.8527 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:38:08.1114 [DEBUG] Play mode: False
+2018-12-19 12:39:20.8337 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:39:20.9131 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:39:35.1092 [DEBUG] Play mode: False
+2018-12-19 12:43:06.9775 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:43:07.0523 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:43:20.3921 [DEBUG] Play mode: False
+2018-12-19 12:45:28.1435 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:45:28.2013 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:45:35.3476 [DEBUG] Play mode: False
+2018-12-19 12:50:00.4042 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:50:00.5129 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:50:16.7874 [DEBUG] Play mode: False
+2018-12-19 12:51:46.1980 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 12:51:46.2579 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 12:52:17.3935 [DEBUG] Play mode: False
+2018-12-19 13:04:19.4287 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:04:19.5245 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:04:21.7054 [DEBUG] Play mode: False
+2018-12-19 13:11:22.3043 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:11:22.3582 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:11:28.3433 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:29.9420 [DEBUG] Play mode: False
+2018-12-19 13:11:33.0774 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:11:33.1413 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:11:37.7878 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:38.2719 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:38.4568 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:38.6412 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:38.8235 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:38.9937 [ERROR] UnassignedReferenceException: The variable animator of PlayerController has not been assigned.
+You probably need to assign the animator variable of the PlayerController script in the inspector.
+UnityEngine.Animator.SetFloat (System.String name, Single value) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:328)
+PlayerController.Update () (at Assets/Scripts/PlayerController.cs:46)
+
+2018-12-19 13:11:39.5781 [DEBUG] Play mode: False
+2018-12-19 13:15:28.6623 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:15:28.7432 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:20:23.6061 [DEBUG] Play mode: False
+2018-12-19 13:20:26.8512 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:20:26.9080 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:20:36.0968 [DEBUG] Play mode: False
+2018-12-19 13:20:47.9649 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:20:48.0497 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:21:06.7444 [DEBUG] Play mode: False
+2018-12-19 13:21:46.9027 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:27:24.8717 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:27:24.9521 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:27:29.6960 [DEBUG] Play mode: False
+2018-12-19 13:30:48.1601 [DEBUG] Scene Fusion version 1.8.1-4
+2018-12-19 13:30:48.2279 [DEBUG] Play mode: True, sync in play mode: False
+2018-12-19 13:30:56.6763 [DEBUG] Play mode: False

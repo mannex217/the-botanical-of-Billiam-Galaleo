@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 11400000, guid: ece7c94df6b19ee45aefdecb62b8b7c9, type: 2}
+  - m_Tile: {fileID: 11400000, guid: be18aba7e2e70c140912c3d017cdd1c3, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -31,7 +31,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 093733f71711acb4890fd77487b05497, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 6af1df4e5904ee6459b3cc88f40ff812, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -50,7 +50,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: fe77d3f40c035ca48ab4b674ea4395ba, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 6a700336501a5d64c8b50001a6acb0ca, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 0d3acb82bab4ec043934b19411a23d1a, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 6cf8188390d1f6841bff64e743f6c3f2, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -88,7 +88,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 48f24500ad6490f449feb047e5cdd41f, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 8ae25520e4337c3458a9b8ec88be14c1, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -107,5 +107,24 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Size: {x: 5, y: 1, z: 1}
-  m_Pivot: {x: 4, y: 0, z: 0}
+  - m_Tile: {fileID: 11400000, guid: 16c6b7a207f4f734e9e6fd73d2cee692, type: 2}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 6, y: 1, z: 1}
+  m_Pivot: {x: 5, y: 0, z: 0}

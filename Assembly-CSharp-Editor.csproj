@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{85483C7A-F674-5A48-A019-77821FDCA983}</ProjectGuid>
+    <ProjectGuid>{E25BF146-CCE1-63EA-E6AF-FC3632159759}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -62,16 +62,16 @@
      <Compile Include="Assets\KinematicSoup\SceneFusion\Extensions\ProBuilder\Editor\ProBuilderExtension.cs" />
      <Compile Include="Assets\KinematicSoup\SceneFusion\Extensions\TerrainComposer2\Editor\TerrainComposer2Extension.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -314,16 +314,16 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="KSCommon.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/KSCommon.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/KSCommon.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="KSCommon-Editor.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/Editor/KSCommon-Editor.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/Editor/KSCommon-Editor.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="KSSceneFusion.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/SceneFusion/KSSceneFusion.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="KSSceneFusion-Editor.Unity2018_2">
- <HintPath>C:/Users/student/Documents/The botanical adventures of Billiam Galaleo/Assets/KinematicSoup/SceneFusion/Editor/KSSceneFusion-Editor.Unity2018_2.dll</HintPath>
+ <HintPath>C:/Users/student/Documents/the-botanical-of-Billiam-Galaleo/Assets/KinematicSoup/SceneFusion/Editor/KSSceneFusion-Editor.Unity2018_2.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/student/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -370,7 +370,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B2B71F84-CF8D-BB4D-FB75-895734103514}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{6027B98A-5812-8DEA-B00D-B6A3EAC139B4}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
